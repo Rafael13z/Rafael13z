@@ -1,6 +1,6 @@
 # Olá, Eu sou [Rafael Dias de Sousa] 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (ADS) com foco em HTML, CSS, JavaScript e C#.
+Estudante de **Análise e Desenvolvimento de Sistemas** (ADS) com foco em HTML, CSS, JavaScript, MySql e C#.
 
 ## 🚀 Sobre Mim
 
