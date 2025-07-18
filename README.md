@@ -1,16 +1,20 @@
-# 👋 Olá! Eu sou Rafael Dias de Sousa
+# 👋 Olá, eu sou Rafael Dias de Sousa
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento web e backend, utilizando HTML, CSS, JavaScript, MySQL e C#.
+Desenvolvedor em formação com foco em **back-end** e **desenvolvimento web**.
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🌱 Apaixonado por transformar ideias em soluções usando HTML, CSS, JavaScript, MySQL e C#  
+💼 Em busca de uma oportunidade de **estágio** para aplicar e expandir meus conhecimentos  
+📫 Contato: [rafaeldiasdesousa@outlook.com](mailto:rafaeldiasdesousa@outlook.com)
 
 ---
 
 ## 🚀 Sobre Mim
 
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Estudando **Desenvolvimento Web** e **Engenharia de Software**
-- 💼 Em busca da minha primeira oportunidade de **estágio na área de TI**
+- 🌱 Estudando **Desenvolvimento Web**, **Engenharia de Software** e **Padrões de Projeto**
 - 💬 Gosto de compartilhar conhecimento sobre **HTML**, **CSS**, **JavaScript** e **C#**
-- 📫 Contato: [rafaeldiasdesousa@outlook.com](mailto:rafaeldiasdesousa@outlook.com)
+- 💼 Em busca da primeira experiência profissional na área de TI
 
 ---
 
@@ -26,14 +30,22 @@
 
 ## 📂 Meus Projetos
 
-### [Biblioteca Virtual](https://github.com/rafaeldiasds/biblioteca-virtual)
-> Aplicação web responsiva para consulta de livros, com integração via API ViaCEP. Feito com HTML, CSS e JavaScript puro.
+### [📚 Biblioteca Virtual](https://github.com/rafaeldiasds/biblioteca-virtual)
+> Aplicação web responsiva para consulta de livros, feita com HTML, CSS e JavaScript puro, incluindo integração à API ViaCEP para preenchimento automático de endereços.
 
-### [Calculadora de IMC](https://github.com/rafaeldiasds/calculadora-imc)
-> Projeto prático para cálculo de IMC com JavaScript, focado em lógica e responsividade.
+### [🧮 Calculadora de IMC](https://github.com/rafaeldiasds/calculadora-imc)
+> Projeto prático para cálculo do Índice de Massa Corporal (IMC), focado em lógica, usabilidade e responsividade.
 
-### [Sistema CRUD com C# e MySQL](https://github.com/rafaeldiasds/sistema-crud)
-> Aplicação básica de cadastro e listagem com C#, MySQL e ASP.NET MVC. Código limpo, separado e comentado.
+### [📊 Sistema CRUD com C# e MySQL](https://github.com/rafaeldiasds/sistema-crud)
+> Aplicação para cadastro, listagem, edição e exclusão de dados, desenvolvida com C#, MySQL e ASP.NET MVC. Código limpo, organizado em camadas e comentado.
+
+---
+
+## 🎓 Certificados
+
+- Curso de HTML e CSS – Alura (2024)
+- Lógica de Programação – Fundação Bradesco
+- Introdução ao Git e GitHub – DIO
 
 ---
 
@@ -43,19 +55,19 @@
 
 ---
 
-## 📧 Entre em contato comigo
+## 📅 Atualmente estudando
 
-- ✉️ E-mail: [rafaeldiasdesousa@outlook.com](mailto:rafaeldiasdesousa@outlook.com)  
+- ASP.NET Core MVC
+- Consumo de APIs REST
+- Boas práticas de Clean Code
+
+---
+
+## 📧 Entre em contato
+
+- ✉️ E-mail: [rafaeldiasdesousa@outlook.com](mailto:rafaeldiasdesousa@outlook.com)
 - 💼 LinkedIn: [rafaeldiasds](https://www.linkedin.com/in/rafaeldiasds/)
 
 ---
 
-## 🎓 Certificados
-
-- Curso de HTML e CSS – Alura (2024)  
-- Lógica de Programação – Fundação Bradesco  
-- Introdução ao Git e GitHub – DIO
-
----
-
-🌟 *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios ou entrar em contato.*
+🌟 *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou me chamar para conversar.*
