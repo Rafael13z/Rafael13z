@@ -31,14 +31,37 @@
 
 ## 📂 Meus Projetos
 
-- 📚 **Biblioteca Virtual**  
-  Aplicação web responsiva feita com HTML, CSS e JavaScript puro, incluindo integração com a API ViaCEP.
+- 🏰 **disney-characters-api**  
+  API simples para listagem de personagens da Disney.  
+  _JavaScript_
 
-- 🧮 **Calculadora de IMC**  
-  Projeto focado em lógica, usabilidade e responsividade.
+- 🎬 **API-de-Filmes-UniFECAF-Flix**  
+  Projeto de API para exibir filmes, desenvolvido para atividade da UniFECAF.  
+  _JavaScript_
 
-- 📊 **Sistema CRUD com C# e MySQL**  
-  Cadastro, listagem, edição e exclusão de dados usando C#, MySQL e ASP.NET MVC. Estrutura em camadas e código comentado.
+- ⚽ **site.orlando.city.fc.front-end**  
+  Site estático em HTML para o time Orlando City FC.  
+  _HTML_
+
+- 📺 **front.end.consumo.api.desenho**  
+  Front-end que consome API de desenhos animados anos 90/2000.  
+  _JavaScript_
+
+- 🧮 **sistema.imc.via.cep**  
+  Calculadora de IMC + integração com ViaCEP para busca de endereço.  
+  _HTML, JavaScript_
+
+- 📚 **Sistema-livraria**  
+  Sistema em Java para cadastro e gerenciamento de livros.  
+  _Java_
+
+- 🚗 **Gerenciamento-veiculos**  
+  CRUD em Java para gerenciar informações de veículos.  
+  _Java_
+
+- 🌦️ **Sistema.previsao.do.tempo**  
+  Aplicação em Python para exibir previsão do tempo.  
+  _Python_
 
 ---
 
